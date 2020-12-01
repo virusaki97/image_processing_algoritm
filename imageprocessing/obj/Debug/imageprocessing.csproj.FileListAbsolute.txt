@@ -1,0 +1,9 @@
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\bin\Debug\imageprocessing.exe.config
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\bin\Debug\imageprocessing.exe
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\bin\Debug\imageprocessing.pdb
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csprojAssemblyReference.cache
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Form1.resources
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.Properties.Resources.resources
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.csproj.GenerateResource.cache
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.exe
+C:\Users\Greg\source\repos\imageprocessing\imageprocessing\obj\Debug\imageprocessing.pdb
